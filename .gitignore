@@ -1,0 +1,5 @@
+composer.phar
+db/geo.sdb*
+vendor/*
+
+!.gitkeep

@@ -1,0 +1,16 @@
+{
+	"name": "aliasio/geoip",
+	"description": "Maxmind GeoLite2 wrapper",
+	"authors": [
+		{
+			"name": "Elbert Alias",
+			"email": "elbert@alias.io",
+			"homepage": "https://alias.io"
+		}
+	],
+	"license": "GPL-3.0",
+	"homepage": "https://alias.io",
+	"autoload": {
+		"psr-4": { "GeoIP\\": "src/GeoIP/" }
+	}
+}
